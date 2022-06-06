@@ -1,6 +1,6 @@
-# school_project
+#DliveryApp
 
-A new Flutter project.
+Flutter final project.
 
 ## Getting Started
 
